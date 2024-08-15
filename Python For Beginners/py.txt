@@ -1,0 +1,15 @@
+list methods
+
+list1.extend(list2)
+list1.append(value)
+list1.insert(index,value)
+list1.remove(value)
+list1.index(value)
+len(list1)
+list1.clear() del list1
+list1.count(value)
+list1.sort()
+list1.reverse()
+list2=list1.copy()
+list1.pop()
+list1.pop(index) del list1[index] 
